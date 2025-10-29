@@ -1,0 +1,7 @@
+/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/_deps/picotool/picotool
+/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/_deps/picotool/picotoolTargets.cmake
+/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/_deps/picotool/picotoolTargets-release.cmake
+/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/_deps/picotool/picotoolConfig.cmake
+/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/_deps/picotool/picotoolConfigVersion.cmake
+/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/_deps/picotool/enc_bootloader.elf
+/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/_deps/picotool/enc_bootloader_mbedtls.elf

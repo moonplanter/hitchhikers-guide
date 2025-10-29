@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "/Users/paulwyman/Documents/PicoCalc/hitchhikers-guide/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}

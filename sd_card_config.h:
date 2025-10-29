@@ -1,0 +1,7 @@
+// SD card on SPI0
+#define SD_SPI       spi0
+#define SD_SCK       18  // From schematic
+#define SD_MOSI      19
+#define SD_MISO      16
+#define SD_CS        17
+#define SD_DET       22  // Card detect

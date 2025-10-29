@@ -1,0 +1,25 @@
+Earth|earth.txt|Planets
+Vogons|vogons.txt|Species
+Babel Fish|babel_fish.txt|Technology
+Pan Galactic Gargle Blaster|gargle_blaster.txt|Beverages
+Towel|towel.txt|Essential Items
+Magrathea|magrathea.txt|Planets
+Heart of Gold|heart_of_gold.txt|Spacecraft
+Infinite Improbability Drive|improbability.txt|Technology
+Marvin|marvin.txt|Personalities
+Zaphod Beeblebrox|zaphod.txt|Personalities
+Ford Prefect|ford.txt|Personalities
+Arthur Dent|arthur.txt|Personalities
+Slartibartfast|slartibartfast.txt|Personalities
+Deep Thought|deep_thought.txt|Computers
+42|forty_two.txt|Philosophy
+Hyperspace Bypass|bypass.txt|Infrastructure
+Vogon Poetry|vogon_poetry.txt|Culture
+Restaurant at End of Universe|restaurant.txt|Locations
+Mice|mice.txt|Species
+Dolphins|dolphins.txt|Species
+Betelgeuse|betelgeuse.txt|Planets
+Sirius Cybernetics Corporation|sirius.txt|Corporations
+Share and Enjoy|share_enjoy.txt|Advertising
+Nutrimatic Drinks Dispenser|nutrimatic.txt|Technology
+Bistromathics|bistromathics.txt|Science
