@@ -1,6 +1,7 @@
 # Hitchhiker's Guide to the Galaxy - PicoCalc Firmware
 
-https://github.com/moonplanter/hitchhikers-guide/blob/master/article_images/dont_panic.png
+<img width="320" height="234" alt="image" src="https://github.com/user-attachments/assets/77ffd427-e5cf-47c5-95db-7b8c8e837897" />
+
 
 A complete Hitchhiker's Guide implementation for the ClockworkPi PicoCalc.
 
