@@ -111,15 +111,22 @@ Article Title|filename.txt|Category
 ```
 
 ## Controls
+![9AEE17F8-ED5B-4913-96DF-222DC34666E4_1_201_a](https://github.com/user-attachments/assets/22b42808-4039-41b5-ad08-b750a7bd6161)
 
 ### Main Menu
 - **1-4** - Select menu option
 - **ESC** - Exit/back
 
+- 
+![34C742CE-E555-4BD1-8972-14C4531012E5_1_201_a](https://github.com/user-attachments/assets/3655b627-5f96-4ea8-a9ec-dafa9b89027a)
+
 ### Browse Mode
 - **↑/↓** - Navigate articles
 - **Enter** - Open article
 - **ESC** - Return to main menu
+
+- 
+![6A1694F4-F27A-42E4-91D5-1828C2AB9469_1_201_a](https://github.com/user-attachments/assets/e75c3306-64cb-4c1d-bdcf-0609a9e7bfa3)
 
 ### Article View
 - **↑/↓** - Scroll content
@@ -139,6 +146,7 @@ Edit the color definitions in `main.c`:
 #define COLOR_AMBER    0xFD20  // Amber/orange
 #define COLOR_DARK_BG  0x0841  // Very dark green
 ```
+![9B6E7E27-DBB7-4825-93A7-905B2D6FC41D_1_201_a](https://github.com/user-attachments/assets/4546ee2f-4e9a-4156-827f-e49ee5cbc395)
 
 ### Boot Screen
 Modify `draw_boot_screen()` function to customize the startup animation.
